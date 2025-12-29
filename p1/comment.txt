@@ -1,0 +1,1 @@
+- jai just modifier mon mail dans reset pw et voila, il faut pas stocker de mail en hard dans le code et recup chaque mail pour les parser
