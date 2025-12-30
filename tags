@@ -9,6 +9,14 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
+Explaination	p4/Ressources/how.md	/^# Explaination$/;"	c
 Explanation	p2/Ressources/how.md	/^# Explanation$/;"	c
 Fix	p2/Ressources/how.md	/^# Fix$/;"	c
+Fix	p3/Ressources/how.md	/^# Fix$/;"	c
+Fix	p4/Ressources/how.md	/^# Fix$/;"	c
 Use case	p2/Ressources/how.md	/^# Use case$/;"	c
+Use case	p3/Ressources/how.md	/^# Use case$/;"	c
+Use case	p4/Ressources/how.md	/^# Use case$/;"	c
+breach	p3/Ressources/how.md	/^# breach$/;"	c
+command returns:	p3/Ressources/how.md	/^# command returns:$/;"	c
+command used	p3/Ressources/how.md	/^# command used$/;"	c
